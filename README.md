@@ -1,6 +1,6 @@
 ### Hi 👋
 Throughout my studies and worklife I’ve focused on creativity and telling stories. I am internationally minded and have a Danish/Swiss dual citizenship. I'm passionate about evolving my skills in innovative digital media solutions!
-I'm currently studying Frontend Development focusing on React. Going forward I want to also specialize in UX design! 
+I've recently completed my studies in Frontend Development focusing on React. Going forward I want to also specialize in UX design! 
 
 <!--
 **CecileAnna/CecileAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
